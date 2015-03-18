@@ -11,7 +11,7 @@
 
 ## Developing
 
-   Develop with phatomjs and node.js.
+   Develop with phantomjs and node.js.
 
 
 ### Tools
